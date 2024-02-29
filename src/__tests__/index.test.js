@@ -1,7 +1,7 @@
 import "@testing-library/jest-dom";
 import { RouterProvider, createMemoryRouter, MemoryRouter} from "react-router-dom"
 import { render, screen } from "@testing-library/react";
-import routes from "../routes.js";
+import {routes} from "../routes.js";
 
 
 
